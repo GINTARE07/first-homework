@@ -1,0 +1,11 @@
+from msilib.schema import ODBCSourceAttribute
+
+
+name = Oscar 
+age  = 16
+height = 1.68
+def greet (name)
+    print ("Hello"+ name)
+if age >= 15 and height >= 160
+    print ("You can ride a carousell")
+    
